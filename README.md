@@ -1,1 +1,1 @@
-# Prize-App
+# prize-app
